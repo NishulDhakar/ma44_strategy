@@ -48,6 +48,7 @@ Market Data (Yahoo Finance)
 |   - Net R              |
 +------------------------+
 
+```
 ---
 
 ## Strategy Logic
