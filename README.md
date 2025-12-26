@@ -10,6 +10,8 @@ This project focuses on deterministic logic, risk management, and explainability
 
 ## Project Architecture
 
+```bash
+
 Market Data (Yahoo Finance)
         |
         v
